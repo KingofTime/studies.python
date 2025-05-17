@@ -12,7 +12,7 @@ numero_2 = int(input('Digite outro número inteiro: '))
 numero_3 = float(input('Digite um número decimal: '))
 
 resultado_1 = (numero_1 * 2) * (numero_2 / 2)
-resultado_2 = (numero_1 * 3) * numero_3
+resultado_2 = (numero_1 * 3) + numero_3
 resultado_3 = numero_3 ** 3
 
 print(f"Primeiro resultado: {resultado_1}")
